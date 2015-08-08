@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>07C12E3B-50A0-45B9-AA7F-923C04908480</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>STTweetLabelExample</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>5588B72F2A481BE0CAEACFD6561144A2DA93EB0B</key>
 		<string>https://github.com/jallen/STTweetLabel.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>STTweetLabelExample/STTweetLabelExample.xcodeproj/project.xcworkspace</string>
+	<string>STTweetLabelExample/STTweetLabelExample.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>5588B72F2A481BE0CAEACFD6561144A2DA93EB0B</key>
